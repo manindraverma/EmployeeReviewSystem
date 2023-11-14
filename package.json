@@ -4,6 +4,7 @@
   "description": "Project to review Employees performance in an organization",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manindra Verma",
